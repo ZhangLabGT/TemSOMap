@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+TemSOMap.egg-info/PKG-INFO
+TemSOMap.egg-info/SOURCES.txt
+TemSOMap.egg-info/dependency_links.txt
+TemSOMap.egg-info/requires.txt
+TemSOMap.egg-info/top_level.txt
+src/Mapper.py
+src/__init__.py
+src/_version_.py
+src/temso_utils.py
+src/treebuild.py
+src/utils.py

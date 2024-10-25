@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: TemSOMap
+Version: 0.0.1
+Summary: Temporal-Spatial-Omics Mapping of single cells.
+Home-page: 
+Author: Xinhai Pan
+Author-email: xpan78@gatech.edu
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Operating System :: Linux
+Requires-Python: >=3.8.5
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pip
+Requires-Dist: torch
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scanpy
+Requires-Dist: scikit-learn
+Requires-Dist: tqdm
