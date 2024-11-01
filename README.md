@@ -21,7 +21,8 @@ Citation available soon.
 
 ## Usage
 Example usages of LinRace can be refered in vignettes.
-%1. [Running TemSOMap on an example, simulated dataset](test/test_temso.ipynb)
+
+1. [Running TemSOMap on an example, simulated dataset](test/test_temso.ipynb)
 
 ## Results
 
