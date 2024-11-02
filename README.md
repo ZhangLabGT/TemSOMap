@@ -27,6 +27,7 @@ Example usages of LinRace can be refered in vignettes.
 ## Results
 
 The following figure shows an example application of TemSOMap, integrating a Stereo-seq and a lineage tracing dataset for E9.5 mouse embryo:
+
 <img width="506" alt="Screenshot 2024-10-31 202019" src="https://github.com/user-attachments/assets/7602034f-0fd8-48b4-80d9-596a22c15a14">
 
 
