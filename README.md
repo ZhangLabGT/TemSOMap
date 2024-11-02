@@ -38,5 +38,6 @@ The following figure shows an example application of TemSOMap, integrating a Ste
 ## Contact
 Other datasets used in the paper can be requested and
 GitHub issues are welcomed.
-It is also possible to send email to the main author
+It is also possible to send email to the main author：
+
 `Xinhai Pan (xpan78 at gatech.edu)`.
