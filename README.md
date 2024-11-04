@@ -16,7 +16,7 @@ The Python package for TemSOMap can be installed via PyPI as:
 #### Please Cite
 
 ```
-Citation available soon.
+Pan, X., Danies-Lopez, A., & Zhang, X. (2024). Mapping lineage-resolved scRNA-seq data with spatial transcriptomics using TemSOMap. bioRxiv. [https://doi.org/10.1101/2024.10.31.621331](https://doi.org/10.1101/2024.10.31.621331).
 ```
 
 ## Usage
