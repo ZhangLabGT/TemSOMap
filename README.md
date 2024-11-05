@@ -22,7 +22,7 @@ Pan, X., Danies-Lopez, A., & Zhang, X. (2024). Mapping lineage-resolved scRNA-se
 ## Usage
 Example usages of LinRace can be refered in vignettes.
 
-1. [Running TemSOMap on an example, simulated dataset](test/test_temso.ipynb)
+1. [Running TemSOMap on an example, simulated dataset](test_temso_tutorial.ipynb)
 
 ## Results
 
